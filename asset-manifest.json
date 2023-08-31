@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photofactory/static/css/main.073c9b0a.css",
+    "main.js": "/photofactory/static/js/main.737f9791.js",
+    "static/js/787.347867e5.chunk.js": "/photofactory/static/js/787.347867e5.chunk.js",
+    "index.html": "/photofactory/index.html",
+    "main.073c9b0a.css.map": "/photofactory/static/css/main.073c9b0a.css.map",
+    "main.737f9791.js.map": "/photofactory/static/js/main.737f9791.js.map",
+    "787.347867e5.chunk.js.map": "/photofactory/static/js/787.347867e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.737f9791.js"
+  ]
+}
